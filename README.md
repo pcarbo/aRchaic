@@ -41,7 +41,8 @@ library(aRchaic)
 
 ## Tutorial
 
-Get started with a short tutorial [here](https://kkdey.github.io/aRchaic) 
+Get started with the tutorial
+[here](https://kkdey.github.io/aRchaic/articles/archaic.html).
 
 ## Support
 
